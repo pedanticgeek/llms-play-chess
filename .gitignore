@@ -27,3 +27,4 @@ venv
 pecg_user.json
 pecg_engines.json
 .env
+__pycache__
