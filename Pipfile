@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+dotenv-python = "*"
+chess = "==1.9.4"
+pysimplegui = "==4.60.5"
+pyperclip = "==1.8.2"
+openai = "*"
+anthropic = "*"
+python-dotenv = "*"
+
+[dev-packages]
+ipykernel = "*"
+black = "*"
+
+[requires]
+python_version = "3.11"
