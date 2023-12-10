@@ -24,7 +24,9 @@ For each combination of games, to be a winner a model had to have 3 victories ov
 ### Summary
 
 Claude2.1 vs GPT-3.5-Turbo: 5-3
+
 Claude2.1 vs GPT-4: 0-3
+
 Claude2.1 vs GPT-4-Turbo: 0-3
 
 ### Claude 2.1
